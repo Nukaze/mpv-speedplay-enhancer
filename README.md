@@ -16,14 +16,14 @@ ___
 
 ## 📥 Quick Start
 
-### <u>Method 1</u>: Using the Extracted Folder
-1. Navigate to the extracted folder `mpv-speedplay-enhancer-YYYY-MM-DD-x86_64`
+### Method 1: Using the Extracted Folder
+1. Navigate to the extracted folder `mpv-speedplay-enhancer-2025-06-10-x86_64`
 2. Run `mpv.exe` directly or set as default video player app
 
-### <u>Method 2</u>: Using the ZIP Archive
-1. Download `mpv-speedplay-enhancer-YYYY-MM-DD-x86_64.zip`
+### Method 2: Using the ZIP Archive
+1. Download `mpv-speedplay-enhancer-2025-06-10-x86_64.zip`
 2. Extract to your desired directory
-3. Do the same as **<u>Method 1</u>**
+3. Do the same as **Method 1**
 
 ___
 
